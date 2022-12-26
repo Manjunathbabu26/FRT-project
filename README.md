@@ -31,7 +31,7 @@ This is a web based application developed for health related based website in in
 
 
 
-### About  -
+### About us  -
 
 
 
@@ -65,7 +65,7 @@ This is a web based application developed for health related based website in in
 
 
 
-### healthmate bot
+### healthmate bot-
 
 
 
