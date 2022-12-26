@@ -14,14 +14,13 @@ This is a web based application developed for health related based website in in
 
 ## Features and Functionalities 😃
 
-- Attractive interface in starting
--responsive UI
+- Attractive interface in home page.
+-responsive UI.
 - Good effects.
-- Web site contains aesthetically pleasing visuals.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
--Bot called healthmate
+- Web site contains  visuals like treating the patients.
+- Has collection of many web pages including Home, About Us, department,contact,healthmate bot and information about hospital.
+- User can know about information about hospital and how to contact them through this website. 
+-includes a bot called healthmate
 
 ## Screenshots
 
