@@ -56,7 +56,7 @@ This is a web based application developed for health related based website in in
 
 
 ### Contact -
-
+![Screenshot_20230125_200220](https://user-images.githubusercontent.com/121325162/214596120-5ff410ff-d816-4d13-a598-a55d7cc72146.jpg)
 
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/121325162/209574202-59dea36b-ea77-4b00-a3c2-c5b189720951.png)
@@ -65,7 +65,7 @@ This is a web based application developed for health related based website in in
 
 
 ### healthmate bot-
-![Screenshot_20230125_200220](https://user-images.githubusercontent.com/121325162/214596120-5ff410ff-d816-4d13-a598-a55d7cc72146.jpg)
+
 
 
 
