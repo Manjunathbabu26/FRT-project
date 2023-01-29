@@ -26,36 +26,6 @@ This is a web based application developed for health related based website in in
 ##Home
 
    
-![Screenshot (2)](https://user-images.githubusercontent.com/121325162/209574033-0657bae9-7b92-4aaf-ae31-ed87b8b89651.png)
-![Screenshot_20230129_182730](https://user-images.githubusercontent.com/121325162/215327969-5cc03b07-24e0-4486-82e0-855bf36c2842.jpg)
-
-![Screenshot_20230129_182726](https://user-images.githubusercontent.com/121325162/215327977-71dda059-961f-4860-a632-3e66af74e490.jpg)
-
-![Screenshot_20230129_182717](https://user-images.githubusercontent.com/121325162/215327984-ef2ddf8d-b047-40c8-b1a4-b9146ad3aaf4.jpg)
-
-![Screenshot_20230129_182710](https://user-images.githubusercontent.com/121325162/215327999-fd12a633-1070-4168-8391-e207bc23f4f6.jpg)
-
-![Screenshot_20230129_182703](https://user-images.githubusercontent.com/121325162/215328020-c22d70f1-40dd-4e96-aca8-6a9838c1c3e8.jpg)
-
-![Screenshot_20230129_180220](https://user-images.githubusercontent.com/121325162/215328031-5fadc543-a6a9-4bac-bb70-fc2cbfd0e220.jpg)
-
-![Screenshot_20230129_180213](https://user-images.githubusercontent.com/121325162/215328036-50c277ed-a46d-44b2-824d-ad4ffaa2b94a.jpg)
-
-![Screenshot_20230129_180210](https://user-images.githubusercontent.com/121325162/215328039-9deca7eb-435b-4789-a253-0b2753a93794.jpg)
-
-![Screenshot_20230129_180205](https://user-images.githubusercontent.com/121325162/215328045-b123503b-c874-4baf-8a26-a85ba10706de.jpg)
-
-![Screenshot_20230129_180201](https://user-images.githubusercontent.com/121325162/215328050-618c9258-2e35-419c-b82d-ebc7ff923c5a.jpg)
-
-![Screenshot_20230129_180156](https://user-images.githubusercontent.com/121325162/215328069-25885fa1-c9f2-440f-bcae-0b4b28946abc.jpg)
-
-![Screenshot_20230129_180152](https://user-images.githubusercontent.com/121325162/215328089-4abdfe84-d9cd-4554-a187-6a73ead26b48.jpg)
-
-![Screenshot_20230129_180150](https://user-images.githubusercontent.com/121325162/215328093-9ff47ae9-83e3-4a86-a7a5-c9eed26abc88.jpg)
-
-![Screenshot_20230129_180159](https://user-images.githubusercontent.com/121325162/215328101-1eb2bd59-f9c5-4e01-a505-33ff26653481.jpg)
-
-![Screenshot_20230129_180144](https://user-images.githubusercontent.com/121325162/215328119-505d2744-5223-400a-8449-93125a9725e4.jpg)
 
 
 
