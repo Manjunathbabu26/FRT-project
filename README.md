@@ -92,7 +92,17 @@ This is a web based application developed for health related based website in in
 
 
 
-![Screenshot (10)](https://user-images.githubusercontent.com/121325162/209574204-b410a1be-07d4-4933-ac80-5b67b0e22012.png)
+![Screenshot_20230129_191738](https://user-images.githubusercontent.com/121325162/215330655-8ff2cf1c-efbe-4e64-81be-d8386a4f7d05.jpg)
+
+![Screenshot_20230129_191756](https://user-images.githubusercontent.com/121325162/215330689-c87f9eca-def3-4098-b8ea-215389218d5a.jpg)
+
+![Screenshot_20230129_191755](https://user-images.githubusercontent.com/121325162/215330703-92e1651d-cff4-437d-9c3b-e1d9bb9c2e91.jpg)
+
+![Screenshot_20230129_191759](https://user-images.githubusercontent.com/121325162/215330734-329429ac-08d7-4165-b7d8-080c20a251f2.jpg)
+
+![Screenshot_20230129_191850](https://user-images.githubusercontent.com/121325162/215330767-504d99d3-ec56-481b-86b3-1053da61c915.jpg)
+
+![Screenshot_20230129_192131](https://user-images.githubusercontent.com/121325162/215330787-0aeb8975-af57-456d-924d-d0a17388ddf1.jpg)
 
 
 
