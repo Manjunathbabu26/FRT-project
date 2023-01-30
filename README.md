@@ -5,7 +5,7 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* -https://black-field-0c071d400.2.azurestaticapps.net/
-*project demo video link* - https://youtu.be/aQeM_fOk9rM
+*project demo video link* - https://youtu.be/3EyEm9QyIBs
 
 ## Azure technologies used for Project
 
